@@ -1,4 +1,4 @@
-** Proposed Official Website of yhe Department of Chemical Engineering, University of Uyo, Nigeria **
+## **Proposed Official Website of yhe Department of Chemical Engineering, University of Uyo, Nigeria**
 
 * This is a personal project i was recently assigned to undertake by my department.
 * The purpose and aim of this project is to create an easily accessible online community platform for members of the Department of Chemical Engineering.
